@@ -16,5 +16,5 @@ My team and I were assigned the project in which we were asked to perform a Mark
 - From this, we concluded that it is a market that is growing rapidly with a Compound Annual Growth Rate (CAGR) of 7.3% by 2025 as the country is shifting its attention to organic farming methods for Food Safety Awareness.
 - We performed EDA on 2 different datasets i.e Crop Production and Crop Data.
 - For the Crop Production, we drew conclusion that out of 29 states and 7 Union territories, we found out top 5 charting states that had the highest crop production.
-- For the Crop Data, we visualized the average modal price vs commodity categories and found out that the different commodities with highest average modal price and finally predicted modal price using **RandomForestRegressor**. Lastly we created a modal with accuracy score of 74.8% ✨
+- For the Crop Data, we visualized the average modal price vs commodity categories and found out that the different commodities with highest average modal price and finally predicted modal price using **RandomForestRegressor**. Lastly we created a model with accuracy score of 74.8% ✨
 
